@@ -1,2 +1,2 @@
 # TODO-List
-It is a TODO list made using HTML,CSS.
+It is a TODO-list app made using HTML and CSS only.
